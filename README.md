@@ -1,4 +1,4 @@
-##**Exoplanet Exploration | Machine Learning Analysis**
+##Exoplanet Exploration | Machine Learning Analysis
 
 **About the Data:**
 
